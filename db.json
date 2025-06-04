@@ -1,3 +1,94 @@
 {
-    "students": []
+    "students": [
+        {
+            "id": "1",
+            "name": "James Smith",
+            "batch": "2023",
+            "age": "21",
+            "address": "London, UK",
+            "email": "james@gmail.com",
+            "phone": "9123456781"
+        },
+        {
+            "id": "2",
+            "name": "Oliver Johnson",
+            "batch": "2022",
+            "age": "22",
+            "address": "Manchester, UK",
+            "email": "oliver@gmail.com",
+            "phone": "9123456782"
+        },
+        {
+            "id": "3",
+            "name": "William Brown",
+            "batch": "2023",
+            "age": "23",
+            "address": "Bristol, UK",
+            "email": "william@gmail.com",
+            "phone": "9123456783"
+        },
+        {
+            "id": "4",
+            "name": "Henry Taylor",
+            "batch": "2021",
+            "age": "24",
+            "address": "Leeds, UK",
+            "email": "henry@gmail.com",
+            "phone": "9123456784"
+        },
+        {
+            "id": "5",
+            "name": "Charlie Wilson",
+            "batch": "2024",
+            "age": "20",
+            "address": "Birmingham, UK",
+            "email": "charliewilson@gmail.com",
+            "phone": "9123456785"
+        },
+        {
+            "id": "6",
+            "name": "Thomas Moore",
+            "batch": "2023",
+            "age": "21",
+            "address": "Liverpool, UK",
+            "email": "thomas@gmail.com",
+            "phone": "9123456786"
+        },
+        {
+            "id": "7",
+            "name": "George Clark",
+            "batch": "2022",
+            "age": "22",
+            "address": "Nottingham, UK",
+            "email": "george@gmail.com",
+            "phone": "9123456787"
+        },
+        {
+            "id": "8",
+            "name": "Daniel Hall",
+            "batch": "2024",
+            "age": "20",
+            "address": "Sheffield, UK",
+            "email": "daniel@gmail.com",
+            "phone": "9123456788"
+        },
+        {
+            "id": "9",
+            "name": "Matthew Wright",
+            "batch": "2021",
+            "age": "24",
+            "address": "Cambridge, UK",
+            "email": "matthew@gmail.com",
+            "phone": "9123456789"
+        },
+        {
+            "id": "10",
+            "name": "Joseph Harris",
+            "batch": "2023",
+            "age": "23",
+            "address": "Oxford, UK",
+            "email": "joseph@gmail.com",
+            "phone": "9123456780"
+        }
+    ]
 }
